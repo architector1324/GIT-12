@@ -47,7 +47,5 @@ A compact benchmark for assessing the **general usefulness of small and mid-size
 
 ---
 
-**Use case:**  
+**Use case:**
 GIT-12 is designed to **quickly test whether a local LLM (on a laptop, server, or edge device)** is capable of acting as a versatile daily-use assistant.
-
----

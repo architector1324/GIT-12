@@ -1,0 +1,12 @@
+Hello, what can you do?
+How many planets are in the Solar System?
+Create a table of planet masses and radii in SI units
+What is the difference between energy and power?
+Translate "The quick brown fox jumps over the lazy dog" into **[Your language]**
+What is 7% of 13,000?
+Invent an acronym in English where each letter means something
+You’re on Mars. What 3 problems must you solve to survive?
+Write a recursive factorial function in Python, C, and Rust
+List 3 practical uses for a local AI assistant on a laptop
+Convert a borscht recipe into structured JSON: steps, ingredients, cooking time
+My faucet is leaking even when turned off. What should I do?
